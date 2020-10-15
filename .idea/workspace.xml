@@ -13,7 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602790065178</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit1">
+      <created>1602790969951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602790969951</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,10 +250,10 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2131" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1602790198289" />
-    <state x="1840" y="89" key="CommitChangelistDialog2" timestamp="1602790063990">
+    <state x="1840" y="89" key="CommitChangelistDialog2" timestamp="1602790968793">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="1840" y="89" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1602790063990" />
+    <state x="1840" y="89" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1602790968793" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602760739709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
